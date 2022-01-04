@@ -2,6 +2,7 @@ package com.andersondolce.workshopmongo.resources.exception;
 
 import java.io.Serializable;
 
+// Serializable -> para trafegar os dados pelo Http
 public class StandardError implements Serializable {
 
     private static final long serialVersionUID = 1L;

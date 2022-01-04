@@ -32,7 +32,6 @@ public class User implements Serializable {
     }
 
     public User(){
-
     }
 
     public User(String id, String name, String email) {
